@@ -15,6 +15,11 @@ a{
     width: 100%;
 }
 #container{
-    padding: 30%;
-    padding-top: 5%;
+    width: 50%;
+    margin: auto;
+    margin-top: 8%;
+}
+.video{
+    text-align: center;
+    margin:auto;
 }
